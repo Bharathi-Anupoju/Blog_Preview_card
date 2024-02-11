@@ -1,3 +1,4 @@
+[live link](https://bharathi-anupoju.github.io/Blog_Preview_card/)
 # Frontend Mentor - Blog preview card
 
 ![Design preview for the Blog preview card coding challenge](./design/desktop-preview.jpg)
